@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+apps/*/node_modules/
+
+# Python caching and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+env/
+
+# Data files
+data/raw/
+data/processed/
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bam
+*.bai
+*.parquet
+*.pkl
+
+# Build folders
+.next/
+
+# OS files
+.DS_Store
