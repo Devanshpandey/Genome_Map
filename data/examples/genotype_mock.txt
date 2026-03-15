@@ -1,0 +1,6 @@
+# This is a sample mock 23andMe formatted text file
+# rsid	chromosome	position	genotype
+rs123	22	16050075	AA
+rs456	22	16050115	AG
+rs789	22	16050213	GG
+rs999	22	16050300	--

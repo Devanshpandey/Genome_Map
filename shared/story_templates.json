@@ -1,0 +1,28 @@
+{
+  "chapters": [
+    {
+      "id": "deep_origins",
+      "title": "Deep Origins",
+      "template": "Based on a probabilistic comparison against the reference panel, your genetic profile is most consistent with populations originating in {continent_primary}. The patterns observed over thousands of variants commonly associate with individuals from {region_1}."
+    },
+    {
+      "id": "maternal_line",
+      "title": "Maternal Lineage Focus",
+      "template": "Your maternal haplogroup ({mt_haplogroup}) represents a deep, unbroken line of female ancestors. {mt_description}"
+    },
+    {
+      "id": "paternal_line",
+      "title": "Paternal Lineage Focus",
+      "template": "Your paternal haplogroup ({y_haplogroup}) points to an unbroken line of male ancestry. {y_description}"
+    },
+    {
+      "id": "mixture_journey",
+      "title": "Population Mixture & Journey",
+      "template": "Human genomes are mosaics built over thousands of years of migration. Your DNA exhibits genetic similarities commonly found among the {pop_1} and {pop_2} reference groups. These approximate affinities suggest shared distant ancestors who traversed through {region_1} regions."
+    }
+  ],
+  "disclaimers": [
+    "This experience is a visualization based on reference populations and probabilistic genetic similarity. It is not medical advice.",
+    "Ancestry estimates show similarity to modern reference samples, not definitive historical origins."
+  ]
+}

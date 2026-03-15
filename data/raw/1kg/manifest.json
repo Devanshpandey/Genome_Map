@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-03-13T00:36:42.398052Z",
+  "genome_build": "GRCh37/hg19 (Phase3)",
+  "files": [
+    {
+      "filename": "1kg_chr22.vcf.gz",
+      "url": "http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz",
+      "type": "vcf"
+    },
+    {
+      "filename": "1kg_chr22.vcf.gz.tbi",
+      "url": "http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz.tbi",
+      "type": "index"
+    },
+    {
+      "filename": "1kg_samples.panel",
+      "url": "http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/integrated_call_samples_v3.20130502.ALL.panel",
+      "type": "panel"
+    }
+  ]
+}

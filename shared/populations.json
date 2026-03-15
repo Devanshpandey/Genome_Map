@@ -1,0 +1,236 @@
+[
+  {
+    "code": "GBR",
+    "display_label": "British in England and Scotland",
+    "superpop": "EUR",
+    "region_name": "Northern Europe",
+    "lat": 54.0,
+    "lon": -2.0,
+    "safe_description": "Populations commonly associated with the British Isles and surrounding regions."
+  },
+  {
+    "code": "FIN",
+    "display_label": "Finnish in Finland",
+    "superpop": "EUR",
+    "region_name": "Northern Europe",
+    "lat": 64.0,
+    "lon": 26.0,
+    "safe_description": "Populations reflecting genetic history in Finland and northeastern Europe."
+  },
+  {
+    "code": "CEU",
+    "display_label": "Utah Residents (CEPH) with Northern and Western European Ancestry",
+    "superpop": "EUR",
+    "region_name": "Northern/Western Europe",
+    "lat": 50.0,
+    "lon": 10.0,
+    "safe_description": "Individuals of primarily Northwestern European descent."
+  },
+  {
+    "code": "TSI",
+    "display_label": "Toscani in Italia",
+    "superpop": "EUR",
+    "region_name": "Southern Europe",
+    "lat": 43.5,
+    "lon": 11.0,
+    "safe_description": "Populations commonly associated with the Italian Peninsula and Southern Europe."
+  },
+  {
+    "code": "IBS",
+    "display_label": "Iberian Population in Spain",
+    "superpop": "EUR",
+    "region_name": "Southern Europe",
+    "lat": 40.0,
+    "lon": -4.0,
+    "safe_description": "Populations reflecting genetic history of the Iberian Peninsula."
+  },
+  {
+    "code": "CHB",
+    "display_label": "Han Chinese in Beijing, China",
+    "superpop": "EAS",
+    "region_name": "East Asia",
+    "lat": 39.9,
+    "lon": 116.4,
+    "safe_description": "Populations commonly associated with Northern China and surrounding regions."
+  },
+  {
+    "code": "JPT",
+    "display_label": "Japanese in Tokyo, Japan",
+    "superpop": "EAS",
+    "region_name": "East Asia",
+    "lat": 35.6,
+    "lon": 139.6,
+    "safe_description": "Populations reflecting genetic history in the Japanese archipelago."
+  },
+  {
+    "code": "CHS",
+    "display_label": "Southern Han Chinese",
+    "superpop": "EAS",
+    "region_name": "East Asia",
+    "lat": 23.1,
+    "lon": 113.2,
+    "safe_description": "Populations commonly associated with Southern China."
+  },
+  {
+    "code": "CDX",
+    "display_label": "Chinese Dai in Xishuangbanna, China",
+    "superpop": "EAS",
+    "region_name": "Southeast Asia",
+    "lat": 22.0,
+    "lon": 100.8,
+    "safe_description": "Populations commonly associated with Southwestern China and Southeast Asia."
+  },
+  {
+    "code": "KHV",
+    "display_label": "Kinh in Ho Chi Minh City, Vietnam",
+    "superpop": "EAS",
+    "region_name": "Southeast Asia",
+    "lat": 10.7,
+    "lon": 106.6,
+    "safe_description": "Populations reflecting genetic history in Vietnam and Southeast Asia."
+  },
+  {
+    "code": "YRI",
+    "display_label": "Yoruba in Ibadan, Nigeria",
+    "superpop": "AFR",
+    "region_name": "West Africa",
+    "lat": 7.3,
+    "lon": 3.8,
+    "safe_description": "Populations commonly associated with West Africa."
+  },
+  {
+    "code": "LWK",
+    "display_label": "Luhya in Webuye, Kenya",
+    "superpop": "AFR",
+    "region_name": "East Africa",
+    "lat": 0.6,
+    "lon": 34.7,
+    "safe_description": "Populations commonly associated with East Africa."
+  },
+  {
+    "code": "GWD",
+    "display_label": "Gambian in Western Divisions in the Gambia",
+    "superpop": "AFR",
+    "region_name": "West Africa",
+    "lat": 13.4,
+    "lon": -15.3,
+    "safe_description": "Populations reflecting genetic history in the Gambia and broader West Africa."
+  },
+  {
+    "code": "MSL",
+    "display_label": "Mende in Sierra Leone",
+    "superpop": "AFR",
+    "region_name": "West Africa",
+    "lat": 8.4,
+    "lon": -11.7,
+    "safe_description": "Populations commonly associated with Sierra Leone and West Africa."
+  },
+  {
+    "code": "ESN",
+    "display_label": "Esan in Nigeria",
+    "superpop": "AFR",
+    "region_name": "West Africa",
+    "lat": 6.7,
+    "lon": 6.2,
+    "safe_description": "Populations reflecting genetic history in Nigeria."
+  },
+  {
+    "code": "ASW",
+    "display_label": "Americans of African Ancestry in SW USA",
+    "superpop": "AFR",
+    "region_name": "African American",
+    "lat": 35.0,
+    "lon": -100.0,
+    "safe_description": "Individuals reflecting combined African and other ancestries from the Americas."
+  },
+  {
+    "code": "ACB",
+    "display_label": "African Caribbeans in Barbados",
+    "superpop": "AFR",
+    "region_name": "Caribbean",
+    "lat": 13.1,
+    "lon": -59.5,
+    "safe_description": "Populations reflecting genetic history of African descent in the Caribbean."
+  },
+  {
+    "code": "MXL",
+    "display_label": "Mexican Ancestry from Los Angeles USA",
+    "superpop": "AMR",
+    "region_name": "Central America",
+    "lat": 23.6,
+    "lon": -102.5,
+    "safe_description": "Populations reflecting a mixture of Native American, European, and African ancestries."
+  },
+  {
+    "code": "PUR",
+    "display_label": "Puerto Ricans from Puerto Rico",
+    "superpop": "AMR",
+    "region_name": "Caribbean",
+    "lat": 18.2,
+    "lon": -66.5,
+    "safe_description": "Populations reflecting ancestral mixture common to the Caribbean."
+  },
+  {
+    "code": "CLM",
+    "display_label": "Colombians from Medellin, Colombia",
+    "superpop": "AMR",
+    "region_name": "South America",
+    "lat": 6.2,
+    "lon": -75.5,
+    "safe_description": "Populations reflecting ancestral mixture common to Colombia."
+  },
+  {
+    "code": "PEL",
+    "display_label": "Peruvians from Lima, Peru",
+    "superpop": "AMR",
+    "region_name": "South America",
+    "lat": -12.0,
+    "lon": -77.0,
+    "safe_description": "Populations reflecting Native American and mixed ancestries from the Andean region."
+  },
+  {
+    "code": "GIH",
+    "display_label": "Gujarati Indian from Houston, Texas",
+    "superpop": "SAS",
+    "region_name": "South Asia",
+    "lat": 22.2,
+    "lon": 71.1,
+    "safe_description": "Populations commonly associated with Western India and South Asia."
+  },
+  {
+    "code": "PJL",
+    "display_label": "Punjabi from Lahore, Pakistan",
+    "superpop": "SAS",
+    "region_name": "South Asia",
+    "lat": 31.5,
+    "lon": 74.3,
+    "safe_description": "Populations commonly associated with the Punjab region of South Asia."
+  },
+  {
+    "code": "BEB",
+    "display_label": "Bengali from Bangladesh",
+    "superpop": "SAS",
+    "region_name": "South Asia",
+    "lat": 23.6,
+    "lon": 90.3,
+    "safe_description": "Populations reflecting genetic history in the Bengal region."
+  },
+  {
+    "code": "STU",
+    "display_label": "Sri Lankan Tamil from the UK",
+    "superpop": "SAS",
+    "region_name": "South Asia",
+    "lat": 7.8,
+    "lon": 80.7,
+    "safe_description": "Populations commonly associated with Sri Lanka and South India."
+  },
+  {
+    "code": "ITU",
+    "display_label": "Indian Telugu from the UK",
+    "superpop": "SAS",
+    "region_name": "South Asia",
+    "lat": 17.3,
+    "lon": 78.4,
+    "safe_description": "Populations reflecting genetic history in Southern India."
+  }
+]

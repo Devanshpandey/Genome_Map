@@ -1,0 +1,46 @@
+{
+  "mtDNA": {
+    "H": {
+      "name": "H",
+      "safe_description": "One of the most common maternal lineages in Europe and the Near East. It may reflect deep origins reaching back tens of thousands of years before present."
+    },
+    "U": {
+      "name": "U",
+      "safe_description": "An ancient maternal lineage widespread across Eurasia, often found among the earliest hunter-gatherer populations of Europe."
+    },
+    "L": {
+      "name": "L",
+      "safe_description": "The deepest rooted branches of the human maternal tree, found predominantly in Africa and representing some of the earliest continuous human populations."
+    },
+    "A": {
+      "name": "A",
+      "safe_description": "Common in East Asia and the Americas, often associated with populations that expanded from Asia across the Bering land bridge."
+    },
+    "unknown": {
+      "name": "Unassigned",
+      "safe_description": "Maternal lineage not identified in the provided data, or falls into a rare sub-clade."
+    }
+  },
+  "yDNA": {
+    "R": {
+      "name": "R",
+      "safe_description": "A very common paternal lineage in Europe, Central Asia, and South Asia, often associated with historical migrations of pastoralist societies."
+    },
+    "E": {
+      "name": "E",
+      "safe_description": "Widespread across Africa, the Middle East, and parts of Europe. It is commonly associated with significant population expansions on the African continent."
+    },
+    "O": {
+      "name": "O",
+      "safe_description": "The predominant paternal lineage in East and Southeast Asia, reflecting vast population developments in the region."
+    },
+    "I": {
+      "name": "I",
+      "safe_description": "A paternal lineage almost entirely restricted to Europe, generally tracing back to early hunter-gatherer populations of the continent."
+    },
+    "unknown": {
+      "name": "Unassigned",
+      "safe_description": "Paternal lineage not identified in the provided data."
+    }
+  }
+}
